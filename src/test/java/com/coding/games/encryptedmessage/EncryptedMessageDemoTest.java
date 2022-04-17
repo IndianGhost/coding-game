@@ -2,7 +2,6 @@ package com.coding.games.encryptedmessage;
 
 import static org.junit.Assert.assertTrue;
 
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
