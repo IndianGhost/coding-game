@@ -1,8 +1,8 @@
 package com.coding.games.pumper;
 
-public class PumperUtil {
+public class PumperUtils {
 	
-	public static String TIME_REGEX = "^[0-2][0-9]:([0-5][0-9]:*){2}$";
+	public static final String TIME_REGEX = "^[0-2][0-9]:([0-5][0-9]:*){2}$";
 	
 	public static void checkTimeValidity(String time) throws IllegalArgumentException{
 		if (time.matches(TIME_REGEX)) {

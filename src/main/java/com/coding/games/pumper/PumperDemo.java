@@ -1,8 +1,8 @@
 package com.coding.games.pumper;
 
-import static com.coding.games.pumper.PumperUtil.checkTimeValidity;
-import static com.coding.games.pumper.PumperUtil.convertTimeToSeconds;
-import static com.coding.games.pumper.PumperUtil.convertSecondsToTime;
+import static com.coding.games.pumper.PumperUtils.checkTimeValidity;
+import static com.coding.games.pumper.PumperUtils.convertTimeToSeconds;
+import static com.coding.games.pumper.PumperUtils.convertSecondsToTime;
 import static java.util.Objects.isNull;
 
 public class PumperDemo {
