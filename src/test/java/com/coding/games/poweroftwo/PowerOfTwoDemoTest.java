@@ -1,4 +1,4 @@
-package com.coding.games.powerOfTwo;
+package com.coding.games.poweroftwo;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;

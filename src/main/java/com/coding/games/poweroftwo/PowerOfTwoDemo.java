@@ -1,4 +1,4 @@
-package com.coding.games.powerOfTwo;
+package com.coding.games.poweroftwo;
 
 import static java.util.Objects.isNull;
 
