@@ -51,9 +51,3 @@ public class EncryptedMessageUtils {
 		return false;
 	}
 }
-
-
-
-
-
-
