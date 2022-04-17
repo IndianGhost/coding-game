@@ -1,17 +1,17 @@
-# A power of 2 is a number of the form 2^a, where a is an integer.
+# Power of two 
 
-#### Example:
-2^4 = 2*2*2*2 = 16
+#### Description
+2<sup>4</sup> = 2x2x2x2 = 16
 Therefore 16 is a power of 2
 
-Given a number n you must output -1 if n is not a power of 2, otherwise you must find which power of 2 is n. (Find a where 2^a=n)
+Given a number n you must output -1 if n is not a power of 2, otherwise you must find which power of 2 is n. (Find a where 2<sup>a</sup> = n)
 
 Input
 Line 1: An integer n representing the number.
 Output
-Line 1 : "-1" if n is not a power of 2 or a such as 2^a=n.
+Line 1 : "-1" if n is not a power of 2 or a such as 2<sup>a</sup> = n.
 #### constraints
-1<=n<=2147483647
+1 $\le$ n $\le$ 2147483647
 
 #### Example of use
 Input
