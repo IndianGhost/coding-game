@@ -14,8 +14,8 @@ public class CommonTestUtils {
 			.append("ipsum passage in a book of old metal type samples. So far he hasn't relocated where he once ")
 			.append("saw the passage, but the popularity of Cicero in the 15th century supports the theory that the ")
 			.append("filler text has been used for centuries.")
-			.append("And anyways, as Cecil Adams reasoned, “[Do you really] think graphic arts supply houses were ")
-			.append("hiring classics scholars in the 1960s?” Perhaps. But it seems reasonable to imagine that there ")
+			.append("And anyways, as Cecil Adams reasoned, \"[Do you really] think graphic arts supply houses were ")
+			.append("hiring classics scholars in the 1960s?\" Perhaps. But it seems reasonable to imagine that there ")
 			.append("was a version in use far before the age of Letraset.")
 			.toString();
 }
