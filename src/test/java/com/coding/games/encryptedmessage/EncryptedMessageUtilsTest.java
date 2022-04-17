@@ -11,6 +11,10 @@ import org.junit.jupiter.api.TestInstance.Lifecycle;
 @TestInstance(Lifecycle.PER_CLASS)
 public class EncryptedMessageUtilsTest {
 	
+	/**
+	 * TODO: Please use {CommonTestUtils.LONG_GENERIC_TEXT} instead !
+	 */
+	@Deprecated
 	private final String INVALID_MESSAGE = new StringBuilder("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do")
 			.append("eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut")
 			.append("enim ad minim veniam, quis nostrud exercitation ullamco")
@@ -101,19 +105,3 @@ public class EncryptedMessageUtilsTest {
 		assertTrue(expected.equals(actual));
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
