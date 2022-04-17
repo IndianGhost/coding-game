@@ -8,4 +8,6 @@ pump X takes 1 hour to fill a swimming pool.
 pump Y takes 2 hours to fill the same pool.
 
 ## Problem
-If we use pump X and pump Y at the same time together, how much time it takes to fill the pool?
+If we use pump X and pump Y at the same time together, how much time it takes to fill the pool?  
+
+[Return to the main readme file](../../../../../../../README.md)

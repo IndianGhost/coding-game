@@ -11,10 +11,11 @@ Line 1: An integer n representing the number.
 Output
 Line 1 : "-1" if n is not a power of 2 or a such as 2<sup>a</sup> = n.
 #### constraints
-1 $\le$ n $\le$ 2147483647
+1&leq;n&leq;2147483647
 
 #### Example of use
-Input
-8
-Output
-3
+Input  
+8  
+Output  
+3  
+[Return to the main readme file](../../../../../../../README.md)
