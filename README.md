@@ -10,6 +10,7 @@ The code is organized in packages, each package is dedicated for a specific codi
 - [Encrypted message](src/main/java/com/coding/games/encryptedmessage/README.md)
 - [Case types](src/main/java/com/coding/games/casetypes/README.md)
 - [Lose weight](src/main/java/com/coding/games/loseweight/README.md)
+- [Fair coins](src/main/java/com/coding/games/faircoin/README.md)
 
 ## Copyright and license
 Copyright 2022 Achraf BELLAALI **coding-game** is a free open-source project. The code is released under [The MIT LICENSE](https://github.com/IndianGhost/coding-game/blob/main/LICENSE) you can contribute in it by creating a new package containing a README file & its unit tests.
