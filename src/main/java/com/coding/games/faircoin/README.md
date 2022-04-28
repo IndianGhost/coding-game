@@ -21,4 +21,4 @@ Let's assume another example where we'll have multiple scenarios (Encountering a
 
 ![Image](../../../../../resources/com/coding/games/faircoin/schema_10_coins.png)
 
-[Return to the main readme file](../../../../../../..)
+[Return to the main readme file](../../../../../../../README.md)
