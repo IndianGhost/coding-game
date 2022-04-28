@@ -18,4 +18,4 @@ Input
 8  
 Output  
 3  
-[Return to the main readme file](../../../../../../../README.md)
+[Return to the main readme file](../../../../../../..)

@@ -13,4 +13,4 @@ Here is an example:
   
 Write a program to determine whether a given input is a Toeplitz matrix.
 
-[Return to the main readme file](../../../../../../../README.md)
+[Return to the main readme file](../../../../../../..)

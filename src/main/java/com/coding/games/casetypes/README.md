@@ -24,4 +24,4 @@ Input
 life_is_good  
 Output  
 snake_case  
-[Return to the main readme file](../../../../../../../README.md)
+[Return to the main readme file](../../../../../../..)
